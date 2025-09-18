@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>منصة الألعاب | الصفحة الرئيسية</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="landing-container">
+    <header>
+      <h1>انطلق في عالم الألعاب!</h1>
+      <p>اكتشف أحدث الألعاب، نافس أصدقائك وحقق الإنجازات. منصة تجمع اللاعبين العرب في مكان واحد.</p>
+      <a href="#signup" class="cta-btn">جرب الآن مجانًا</a>
+    </header>
+    <section class="features">
+      <div>
+        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" alt="icon" />
+        <h3>ألعاب متنوعة</h3>
+        <p>اختر من بين مئات الألعاب الإلكترونية الممتعة.</p>
+      </div>
+      <div>
+        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png" alt="icon" />
+        <h3>مجتمع نشط</h3>
+        <p>تواصل مع لاعبين من جميع أنحاء الوطن العربي.</p>
+      </div>
+      <div>
+        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055656.png" alt="icon" />
+        <h3>مكافآت وجوائز</h3>
+        <p>اجمع النقاط واكسب الجوائز يوميًا!</p>
+      </div>
+    </section>
+    <footer>
+      <p>جميع الحقوق محفوظة &copy; منصة الألعاب 2025</p>
+    </footer>
+  </div>
+</body>
+</html>
